@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](../images/screenshot.PNG)
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/viotel81/Order-Summary-Card.git)
-- Live Site URL: [Add live site URL here](https://viotel81.github.io/Order-Summary-Card/)
+- Solution URL: [https://github.com/viotel81/Order-Summary-Card.git]
+- Live Site URL: [https://viotel81.github.io/Order-Summary-Card/]
 
 ## My process
 
