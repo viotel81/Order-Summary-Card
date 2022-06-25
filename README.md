@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/screenshot.png]
+![](../images/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [https://github.com/viotel81/Order-Summary-Card.git]
-- Live Site URL: [https://viotel81.github.io/Order-Summary-Card/]
+- Solution URL: [Add solution URL here](https://github.com/viotel81/Order-Summary-Card.git)
+- Live Site URL: [Add live site URL here](https://viotel81.github.io/Order-Summary-Card/)
 
 ## My process
 
@@ -53,6 +53,6 @@ My biggest takeaway was SVG background image manipulation. I have posted a link 
 
 ## Author
 
-- Website - [https://github.com/viotel81]
-- Frontend Mentor - [(https://www.frontendmentor.io/profile/viotel81]
+- Website - [VioTel](https://github.com/viotel81)
+- Frontend Mentor - [@viotel81](https://www.frontendmentor.io/profile/viotel81)
 
